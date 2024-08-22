@@ -10,7 +10,7 @@ import time
 import random
 from random import randint
 #не трогать !
-CHANNEL_ID = '@crazycoderspython'
+CHANNEL_ID = '@extremecasinoo'
 #не трогать !
 
 
