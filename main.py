@@ -23,18 +23,18 @@ CHANNEL_ID = '@extremecasinoo'
 
 
 
-CHANNEL_ID_2 = '@тег второго канала'
+CHANNEL_ID_2 = '@twinky0000'
 
 num = "G.D-" + "{0}".format(randint(0, 100))
 
-TOKEN = 'Токен бота' #из #BotFather
+TOKEN = '7429518608:AAFMU2R_CyyLqPhWl2LJTWxTQVPU1DhSppk' #из #BotFather
 
 Bot = Bot(token=TOKEN)
 dp = Dispatcher(Bot)
 db = Database('database.db')
 
 online = 'Бот вышел в онлайн'
-admin = 'ID админа'
+admin = '992835747'
 
 
 async def on_startup(_):
